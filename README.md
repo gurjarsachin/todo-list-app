@@ -153,7 +153,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **sachin gurjar**
 
-- GitHub: [@YourUsername](https://github.com/gurjarsachin)
+- GitHub: [@gurjarsachin](https://github.com/gurjarsachin)
 
 
 ---
